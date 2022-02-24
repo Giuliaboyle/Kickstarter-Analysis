@@ -6,4 +6,5 @@ As one can see, this graph helps to see that theater and music had the most suce
 
 Next, I analyzed the outcomes based on launch date to determine if the length of a campaign correlated with its success. The graph of this data is seen below.
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/100374924/155587595-5a3f076a-a343-4d6e-9470-d5cc3e99eb09.png)
+This graph shows that campaigns launched in May had the most sucess compared to campaigns launched in other months.
 ![Distribution of campaign goals](https://user-images.githubusercontent.com/100374924/155587600-2fb69e92-05f1-4e26-b0c4-681a9886800e.png)
