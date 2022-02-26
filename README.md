@@ -1,10 +1,31 @@
-# An Analysis of Kickstarter Campaigns
-## Performing analysis on Kickstarter data to better visualize trends in summary tables, charts, and graphs
-A pivot table of the data was created to better visualize how each category preformed. This information was then convereted into a graph for better visualization of the trend. This graph is seen below
-![Parent Category outcomes table](https://user-images.githubusercontent.com/100374924/155587525-8d67c07e-977e-4390-848e-280fe2ae9e1f.png)
-As one can see, this graph helps to see that theater and music had the most sucessful outcomes out of all of the categories.
+# Kickstarting with Excel
 
-Next, I analyzed the outcomes based on launch date to determine if the length of a campaign correlated with its success. The graph of this data is seen below.
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/100374924/155587595-5a3f076a-a343-4d6e-9470-d5cc3e99eb09.png)
-This graph shows that campaigns launched in May had the most sucess compared to campaigns launched in other months.
-![Distribution of campaign goals](https://user-images.githubusercontent.com/100374924/155587600-2fb69e92-05f1-4e26-b0c4-681a9886800e.png)
+## My client Louise wants to determine the relationship between different campaign outcomes relative to their launch dates and fundraising goals in order to better structure her own campaign. 
+
+
+### The purpose of this project was to develop tools for Louise to easily visualize important trends in her data set.
+
+
+## Analysis and Challenges
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100374924/155846359-d204a6fd-4219-4f1f-8173-c613dfccb637.png)
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100374924/155846360-92eb2128-302d-4611-84cc-e57418bc50e3.png)
+
+### Analysis of Outcomes Based on Launch Date 
+
+### Analysis of Outcomes Based on Goals
+
+ 
+### Challenges and Difficulties Encountered
+
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
