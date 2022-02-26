@@ -12,8 +12,9 @@
 ### The first graph compared the launch date to the theater outcomes. In order to do this I organized all of the theater outcome data along with the launch-date data into a pivot table. The pivot table was then convereted into a line graph in order to best visualize the trends.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100374924/155846360-92eb2128-302d-4611-84cc-e57418bc50e3.png)
 
+
 ### The second graph compared the campaign outcomes with the fundrasing goals.  In order to do this I compiled all of the theater outcome data along with the fundraising goal data to form a pivot table. The pivot table was then organized and convereted into a line graph in order to visualize the trends in the data.
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100374924/155846359-d204a6fd-4219-4f1f-8173-c613dfccb637.png)
+![Outcomes based on Goal](https://user-images.githubusercontent.com/100374924/155848333-d7802032-8190-4a61-abbd-eb4f48d94a6f.png)
 
 ### Analysis of Outcomes Based on Launch Date 
 
