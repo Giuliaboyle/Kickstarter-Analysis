@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Visualizing Data Trends Using Excel
 
 ## Overview
 ### My client Louise wants to determine the relationship between different theater campaign outcomes relative to their launch dates and fundraising goals in order to better structure her own theater campaign. 
