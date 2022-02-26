@@ -1,10 +1,10 @@
 # Kickstarting with Excel
 
-## Overview: 
+## Overview
 ### My client Louise wants to determine the relationship between different theater campaign outcomes relative to their launch dates and fundraising goals in order to better structure her own theater campaign. 
 
 
-## Purpose: 
+## Purpose
 ### The purpose of this project was to develop tools for Louise to easily visualize important trends in her data set.
 
 
